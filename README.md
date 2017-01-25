@@ -1,2 +1,4 @@
-# BattleTanks
-Open-world battle tank Unreal Engine game.
+# Battle Tanks Game
+***
+
+Open-world battle tanks Unreal Engine game.
